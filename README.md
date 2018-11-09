@@ -1,6 +1,6 @@
 # TweetMoodometer
 
-TweetMoodometer  provides the function analyse-tweets function which takes a valid twurl request
+TweetMoodometer  provides the function analyse-tweets which takes a valid twurl request
 and draws a graph depicting sentiments in the tweets. 
 
 It is built on the data-science package and the Trump's tweet analysis module initially created by Nicholas Van Horn.
